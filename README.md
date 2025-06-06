@@ -6,7 +6,7 @@
 
 This project analyzes an online bookstore database using SQL.
 
-### Ola-Ride 
+#   Ola-Ride 
 
 Ola Ride Data Analysis using SQL
 
