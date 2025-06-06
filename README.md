@@ -1,22 +1,23 @@
-# sql
+# SQL
  A collection of SQL projects for learning and analysis.
 
-###List Of projects
-#  Online Bookstore SQL Project
+# List Of projects
 
-This project analyzes an online bookstore database using SQL.
+### Online Bookstore SQL Project
 
-#   Ola-Ride 
+- This project analyzes an online bookstore database using SQL.
 
-Ola Ride Data Analysis using SQL
+### Ola-Ride 
+
+- Ola Ride Data Analysis using SQL
 
 
-###  Skills Used
+# Skills Used
 - SQL joins
 - Aggregation (`SUM`)
 - `GROUP BY`, `ORDER BY`, `LIMIT`
 
-###  Tools
+# Tools
 - VS Code
 - GitHub
 - SQL 
