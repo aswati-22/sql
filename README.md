@@ -4,6 +4,8 @@
 ## List Of projects
 # 📚 Online Bookstore SQL Project
 
+
+
 This project analyzes an online bookstore database using SQL.
 
 
