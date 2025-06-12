@@ -14,7 +14,7 @@ This project is based on sales data from Blinkit. It uses SQL to study how diffe
 
 - `blinkit_data.csv` – The dataset with product and sales information
 - `blinkit_analysis.sql` – SQL queries used for analysis
-- `README.md` – This file (project explanation)
+- `blinkit_description.md` – This file (project explanation)
 
 ## 🧪 KPIs Used
 
